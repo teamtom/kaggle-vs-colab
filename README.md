@@ -6,7 +6,7 @@ testing CPU/GPU speeds
 * simple logistic regression model 
 * trying to manage class imbalance by setting threshold value
 
-### on local machine (CPU only, I7 10th generation)
+### Local machine (CPU only, I7 10th generation)
 
 ### Kaggle (GPU)
 
