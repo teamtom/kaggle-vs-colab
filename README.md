@@ -20,8 +20,8 @@ https://colab.research.google.com/drive/10_z7JQbYuM6aL8D0tmkd7aaQwDCZxnqf?usp=sh
 ### Local machine (CPU only, I7 10th generation)
 
 * Local machine (CPU only, I7 10th generation)
-** single run
-** sweep w/ 3 runs
+single run https://github.com/teamtom/kaggle-vs-colab/blob/main/mnist%20(cnn)%2002b%20%5Bpt-pl2-loc-w%26b%5D.ipynb
+sweep w/ 3 runs
 * Kaggle (GPU)
 ** sweep w/ 3 runs
 * Colab (GPU)
