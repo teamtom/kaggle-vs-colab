@@ -7,12 +7,22 @@ testing CPU/GPU speeds
 * trying to manage class imbalance by setting threshold value
 
 ### Local machine (CPU only, I7 10th generation)
-[https://github.com/teamtom/kaggle-vs-colab/blob/main/churn-class-imbalance-w-treshold01%20%5Bpt-pl2-loc-w%26b-swp%5D.ipynb]
+https://github.com/teamtom/kaggle-vs-colab/blob/main/churn-class-imbalance-w-treshold01%20%5Bpt-pl2-loc-w%26b-swp%5D.ipynb
 
-### Kaggle (GPU)
+### Kaggle
+https://www.kaggle.com/tamascsakanyosi/churn-cls-imb-w-thrsh-pt-pl2-kag-w-b-swp
 
-### Kaggle (CPU)
+### Colab
+https://colab.research.google.com/drive/10_z7JQbYuM6aL8D0tmkd7aaQwDCZxnqf?usp=sharing
 
-### Colab (GPU)
+## MNIST dataset
 
-### Colab (CPU)
+### Local machine (CPU only, I7 10th generation)
+
+* Local machine (CPU only, I7 10th generation)
+** single run
+** sweep w/ 3 runs
+* Kaggle (GPU)
+** sweep w/ 3 runs
+* Colab (GPU)
+** sweep w/ 3 runs
