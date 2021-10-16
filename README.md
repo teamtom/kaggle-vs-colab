@@ -6,6 +6,8 @@ testing CPU/GPU speeds
 * simple logistic regression model 
 * trying to manage class imbalance by setting threshold value
 
+W&B Project https://wandb.ai/teamtom/churn-class-imbalance-with-treshold01?workspace=user-teamtom
+
 ### Local machine (CPU only, I7 10th generation)
 https://github.com/teamtom/kaggle-vs-colab/blob/main/churn-class-imbalance-w-treshold01%20%5Bpt-pl2-loc-w%26b-swp%5D.ipynb
 
@@ -18,6 +20,8 @@ https://colab.research.google.com/drive/10_z7JQbYuM6aL8D0tmkd7aaQwDCZxnqf?usp=sh
 ## MNIST dataset
 
 MNIST dataset + CNN
+
+W&B Project https://wandb.ai/teamtom/mnist-with-pipeline+wandb?workspace=user-teamtom
 
 * Local machine (CPU only, I7 10th generation)
   - single run https://github.com/teamtom/kaggle-vs-colab/blob/main/mnist%20(cnn)%2002b%20%5Bpt-pl2-loc-w%26b%5D.ipynb
